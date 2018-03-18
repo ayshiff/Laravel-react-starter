@@ -2,11 +2,11 @@ import React from 'react'
 
 const Header = () => (
     <header>
-        <nav className="navbar navbar-default">
+        <nav className="navbar navbar-dark bg-dark">
             <div className="container-fluid">
                 <div className="navbar-header">
-                    <a className="navbar-brand" href="#">
-                        <img alt="Brand" src=""/>
+                    <a className="navbar-brand" >
+                        Home
                     </a>
                 </div>
             </div>

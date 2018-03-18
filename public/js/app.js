@@ -58649,7 +58649,7 @@ var Header = function Header() {
         null,
         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
             "nav",
-            { className: "navbar navbar-default" },
+            { className: "navbar navbar-dark bg-dark" },
             __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                 "div",
                 { className: "container-fluid" },
@@ -58658,8 +58658,8 @@ var Header = function Header() {
                     { className: "navbar-header" },
                     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                         "a",
-                        { className: "navbar-brand", href: "#" },
-                        __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", { alt: "Brand", src: "" })
+                        { className: "navbar-brand" },
+                        "Home"
                     )
                 )
             )
@@ -58712,7 +58712,7 @@ var Home = function Home() {
         __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
             'h1',
             null,
-            ' Home route !'
+            ' '
         )
     );
 };
